@@ -538,8 +538,9 @@ header{
     background-image: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)),
     url(img/playa.jpg);
     background-position: center;
-    height: 70vh;
-    
+    height: 55vh;
+    background: no-repeat;
+    width: 100%
 }
 
 
@@ -553,7 +554,7 @@ header{
 }
 
 .tituloexperiencias h1{
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Playfair', serif;
 }
 
