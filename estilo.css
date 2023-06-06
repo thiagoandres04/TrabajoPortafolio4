@@ -537,10 +537,8 @@ header{
 .experiencias{
     background-image: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)),
     url(img/playa.jpg);
-    background-size: 200rem;
     background-position: center;
-    
-    height: 55vh;
+    height: 70vh;
     
 }
 
